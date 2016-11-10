@@ -1,0 +1,6 @@
+# Xcode
+*.xcodeproj/*
+
+# Swift Package Manager
+Packages/
+.build/
