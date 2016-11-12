@@ -6,6 +6,6 @@ let package = Package(
 		.Package(url: "https://github.com/Zewo/Mapper.git",
 		         majorVersion: 0, minor: 14),
 		.Package(url: "https://github.com/behrang/YamlSwift.git",
-		         majorVersion: 3, minor: 0),
+		         majorVersion: 3, minor: 1),
 	]
 )
